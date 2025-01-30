@@ -1,0 +1,145 @@
+/* all commun css start */
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;padding: 0;
+    line-height: .8;
+}
+contennar{
+    width: 1340px;
+    margin: 0 auto;
+}
+/* all comuun css end */
+/* header part start */
+#hedarpart{
+    padding: 40px;background-color: rgb(48, 3, 112);
+}
+.contennarfelex{
+    display: flex;justify-content: space-between;align-items: center;
+}
+.menu ul li a{
+    text-transform: uppercase;padding-left: 15px;color: #FFFFFF;
+}
+ul li a:hover{
+    transition: 4.s;color: blueviolet;
+}
+.icon span{
+    font-size: 30px;color: #FFFFFF;
+}
+/* header part start */
+/* vennar part start */
+#bennar{
+    padding: 100px;background-image: url(../imag-12/bennar.png);
+    background-position: center3;background-size: cover;background-repeat: no-repeat;
+}
+.contennarvfelex{
+    display: flex;
+}
+.contennarv h3{
+    color: #FFFFFF;
+}
+.contennarv h1{
+    color: #FFFFFF;padding-top: 10px;font-size: 35px;
+}
+.contennarv h3{
+    color: #FFFFFF;padding-top: 10px;
+}
+.contennarv img{
+    padding-top: 15px;
+}
+.conennari picture img{
+    padding-left: 150px;
+}
+/* vennar part end */
+/* vennar2 part start */
+#vennar2{
+    padding: 80px;background-color: #FFFFFF;
+}
+.contennar2felex{
+    display: flex;
+}
+.con1 p{
+    color: #000;
+}
+.con1 h1{
+    color: #000;padding-top: 15px;
+}
+.con1 h2{
+    color: #000;padding-top: 10px;font-size: 30px;
+}
+
+.con1 p{
+    color: #000;padding-top: 15px;
+}
+.con2 p{
+padding-left: 25%;
+}
+
+/* vennar2 part end */
+/* vennar3 part start */
+#vennarpart3{
+    background-image: url(../imag-12/vennar3.png);padding: 100px;
+    background-position: center;background-size: cover;background-repeat: no-repeat;
+}
+.contennar3felex{
+    display: flex;
+}
+.a{
+    color: #F3F1D8;
+}
+.a h2{
+    color: #F3F1D8;padding-top: 10px;
+}
+.a h1{
+    color: #F3F1D8;text-transform: capitalize;padding-top: 5px;
+}
+.a h5{
+    color: #F3F1D8;padding-top: 8px;
+}
+.a picture img{
+    padding-top: 5px;
+}
+.b{
+    padding-top: 90px;padding-left: 80px;
+}
+.b picture img{
+    padding-left: 10%;padding-top: 10%;
+}
+/* vennar3 part end */
+/* vennar4 part start */
+#vennar4{
+    padding: 100px;background-color:#FFFFFF;position: relative;
+}
+.contennar4 h1{
+padding-top: 10px;
+}
+.contennar4 h5{
+    padding-top: 8px;
+}
+.k1 picture img{
+padding-top: 10px;position: absolute;
+}
+.k2 picture img{
+    padding-top: 230px;position: absolute;
+ }
+ .k3 picture img{
+    padding-left: 25%;padding-top: 10px;position: absolute;
+ }
+ .k4 picture img{
+    padding-left: 70%;padding-top: 10px;position: absolute;
+ }
+ .k5 picture img{
+    padding-left: 70%;padding-top: 230px;position: absolute;
+ }
+/* vennar4 part end */
+/* vennar part 5 start */
+/* vennar part 5 end */
